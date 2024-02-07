@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "iot-irrigation-d58cc",
+  "private_key_id": "7f31ca2b31db94cfbca0277522c09e77d6d3d58b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDQg7PFMqJA+51L\nnLZuDWx/1hKNPiPgcSQ7u9bCalNRO+7WG5DjBYZbsc+cwNhsy4nj8eEPILvbIM8r\nb0QU8whFs5OxdHycdFaW57W8o6brfV5eg4wvcqsj6FlkYgJ9OCzuemFvZdLIgSIb\npeW2NMh/kM25ZoWZzwcI2EOAGZ+lkSlOoZ1+2PS7dDlOX5hJKPuW+Oa+iZbmvy/y\n+uSed5eQPSwJsgJZY81xeHBS9aowojd3XkriuVi1mUYnUUCb5KVh1VJJIQ2e+BKv\nmPPsv+qB/xEA19PWmKC59N6az+hy2R4PwD/tbe7isk01TTNfcsOZi1jdo0JvwQIS\n5yNIvufrAgMBAAECggEAALtH6+xQA6Z7uNyu4L7rggpUGrpMVM+WDn+5610HWWlz\nI9sA51xQdEPv3gtzOyKu9TMwFYvUzjV8mp86VNcK0vpWeowF2Yo3NxktaaEJOqBA\nLKyE9IHbw7mzOoZPeRsHjAQG0oERtK26UqUiENQ+g6SWYlqp5Jzgxy2PQ0PC9oxU\neIBg0ib1gJGms0BiUy1mFQ2F1nfbdY270+vacN2d0GV04p80KfA35fHGw4k/J8C9\nvj2EJSFHLPz2xbL6gI5cKRSlUFtZnAi/UPgpYPPmDTuC3J2SZZ43QAPUgM4sgyIk\n8D8ST+Nse6NY6yjTYed2XzAwjvsdjsUW/V2vMOwl8QKBgQD2jcVCgcMzh3aG1uJy\nWkW1kNiSprProct0YaXGZIE9x644C97hFzrvROrxVx+0D6f16/TdZswNTZhgms4Y\neVtO98GC38D3dVvmFvJgzTLyKrZiQGXys3uMP1sfWaRXz6fsQwCO6ISWDIwTncRa\nh1nHWjfngargH+c7tIWjaztxbwKBgQDYgNZbT4lFncWjXxC6vFiLY50g43aDCohC\n1S7JnRQvGLFfcZ/qp7BVEVF2S3BCVKLOj3w8bxAbb6jly9TiIMYDCtFfUwanVFwt\nKs72Mc3QWeygAly2Mr+dAEdm8DfJcRu5MeOleVLd/Nl+v+Z1p3u2YpV3whr5TyE5\ngTiwUtd7RQKBgEeDTYEB5F2Q4BcyQtJKTsfgMIEw6yTgdAPYwt2tjzMdNPI6tzXw\np/54rfC8hYyTsfMJsqd5RpxhMl5q6HZ+1LYt9KoCPpVILBSr+TeMrUdCjk4nQarI\n1oASbFrGhH2X1KwZrxLEbJidIRAbhbWAZtEE4Qw8NxT1C/vsW4rP8pjvAoGAEVcY\nVA3lv7aoOrKFg39MVDWxQw4U0uAIE9pBOhKjqDYBFtTh6whtPhL6BFB8eEORGpwx\nZiG7F4d07prJvSbE1T+Lj2f183b1PwTbuKo6gsKBCjvGMy2TXT7FeUAqJ68wej+9\nrOYvtennfZhfG/NDHFN/By17vZYR4iowYSbxbUUCgYB38Eh6ooTq1neuF+9RuRaS\nQuvPaiJQqOSznKXk5/9yjCoJ3rUAKssySfBYwkBxzWCAVLePZESDjzg/tyGRFNRp\nc8yz78wd4LzFMC6KGv5yJwqviSRAvO4N7oH/BVkY7NYJkXUteaOfHEL5Rsi/5Nb9\nacIrvHe0G35WpH94lDRhWw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-87p04@iot-irrigation-d58cc.iam.gserviceaccount.com",
+  "client_id": "100551061815909420501",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-87p04%40iot-irrigation-d58cc.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
